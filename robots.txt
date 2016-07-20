@@ -1,0 +1,45 @@
+# robots.txt
+
+User-agent: *
+
+# Diretorios
+
+Disallow: /admin/
+Disallow: /chat/
+Disallow: /Connections/
+Disallow: /frete/
+Disallow: /js/
+Disallow: /PagSeguroLibrary/
+Disallow: /brindes-personalizados/enviados/
+Disallow: /brindes-personalizados/js/
+Disallow: /brindes-personalizados/preVisualizadas/
+
+Allow: /admin/imagens/
+
+# Arquivos
+
+Disallow: /checkout.php
+Disallow: /config.php
+Disallow: /finalizado.php
+Disallow: /funcoes.php
+Disallow: /gerar.php
+Disallow: /rastrear_robos_busca.php
+Disallow: /rec_sen.php
+Disallow: /retorno.php
+Disallow: /brindes-personalizados/area_imagens.php
+Disallow: /brindes-personalizados/area_papel.php
+Disallow: /brindes-personalizados/codigos_php.php
+Disallow: /brindes-personalizados/db.php
+Disallow: /brindes-personalizados/enviar_arquivo.php
+Disallow: /brindes-personalizados/funcao_upload.php
+Disallow: /brindes-personalizados/gerar.php
+Disallow: /brindes-personalizados/gerar_visu.php
+
+
+
+# Sitemaps
+
+Sitemap: http://www.teresinabrindes.com.br/sitemap.xml
+Sitemap: http://www.teresinabrindes.com.br/brindes-personalizados/sitemap.xml
+Sitemap: http://www.teresinabrindes.com.br/comunicacao-visual/sitemap.xml 
+

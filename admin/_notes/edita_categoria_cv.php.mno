@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_categorias_cv" value="name:catcv_id;datatype:int,name:catcv_pro_id;datatype:int,name:catcv_nome;datatype:string,name:catcv_href;datatype:string,name:catcv_imagem;datatype:string,name:catcv_exibir;datatype:int" />
+</info>

@@ -1,0 +1,949 @@
+#draggable {
+	width: 250px;
+	height: 500px;
+	position: absolute;
+	z-index: 2;
+}
+.demo {
+	background-color: #CCC;
+	height: 600px;
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#moldura {
+	position: absolute;
+	height: 600px;
+	width: 300px;
+	z-index: 3;
+}
+.cancela{clear:both;}
+
+
+/* FUNDO ORÇAMENTO */
+
+	#fundo_orcamento{
+	position: relative;
+	width: 466px;
+	height: 455px;
+	overflow: hidden;
+	left: 80px;
+	top: 30px;
+	float: left;
+		}
+
+	/*  GUIRLANDO BOAS VINDAS */
+		#area_guirlanda {
+	position: relative;
+	width: 500px;
+	height: 482px;
+	/*border: 1px solid black;*/
+	overflow: hidden;
+	left: 50px;
+	border: 1px solid #CCC;
+	top: 40px;
+	float: left;
+		}
+#top-guirlanda{
+	background-image:url(../app/imagens/partes-guirlanda/top-guirlanda.png);
+	position: absolute;
+	width: 500px;
+	height: 167px;
+	/*border: 1px solid black;*/
+	overflow: hidden;
+	top:0px;
+	z-index:200;
+		}
+#esq-guirlanda{
+	background-image:url(../app/imagens/partes-guirlanda/esq-guirlanda.png);
+	position: absolute;
+	width: 161px;
+	height: 482px;
+	/*border: 1px solid black;*/
+	overflow: hidden;
+	top: 0px;
+	left:0px;
+	z-index:200;
+		}
+#dir-guirlanda{
+	background-image:url(../app/imagens/partes-guirlanda/dir-guirlanda.png);
+	position: absolute;
+	width: 172px;
+	height: 482px;
+	/*border: 1px solid black;*/
+	overflow: hidden;
+	right:0px;
+	z-index:200;
+		}
+#bai-guirlanda{
+	background-image:url(../app/imagens/partes-guirlanda/bai-guirlanda.png);
+	position: absolute;
+	width: 500px;
+	height: 125px;
+	/*border: 1px solid black;*/
+	overflow: hidden;
+	bottom: 0px;
+	z-index:200;
+		}
+
+
+
+
+	/*  ALMOFADA REDONDA */
+	#fundo_almofada_redonda{
+	background-image:url(imagens/fundo_almofada_redonda.png);
+	position: relative;
+	width: 500px;
+	height: 504px;
+	overflow: hidden;
+	left: 50px;
+	top: 30px;
+	float: left;
+		}
+	#area_almofada_redonda {
+	position: relative;
+	width: 347px;
+	height: 290px;
+	overflow: hidden;
+	left: 70px;
+	border: 1px solid #F00;
+	top: 110px;
+	float: left;
+		}
+
+
+	/*  PRATO CERAMICA */
+
+	#fundo_prato_ceramica{
+	background-image:url(imagens/fundo_prato_ceramica.png);
+	position: relative;
+	width: 479px;
+	height: 500px;
+	overflow: hidden;
+	left: 50px;
+	top: 30px;
+	float: left;
+	}
+		
+	#area_prato_ceramica {
+	position: relative;
+	width: 250px;
+	height: 245px;
+	overflow: hidden;
+	left: 115px;
+	border: 1px solid #F00;
+	top: 120px;
+	float: left;
+	-moz-border-radius:300px;
+	-webkit-border-radius:300px;
+	border-radius:300px;
+	}
+
+	/*  MOUSEPAD RETANGULO */
+	#area_mousepad_ret {
+	position: relative;
+	width: 500px;
+	height: 433px;
+	/*border: 1px solid black;*/
+	overflow: hidden;
+	left: 50px;
+	border: 1px solid #F00;
+	top: 40px;
+	float: left;
+		-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	}
+
+	#top-mouse-linha{
+	position: absolute;
+	width: 478px;
+	height: 10px;
+	/*border: 1px solid black;*/
+	overflow: hidden;
+	top:0px;
+	left: 10px;
+	border-bottom: 1px dashed #930;
+	z-index:200;
+	}
+	
+	#esq-mouse-linha{
+	position: absolute;
+	width: 10px;
+	height: 411px;
+	overflow: hidden;
+	border-right: 1px dashed #930;
+	top: 10px;
+	left:0px;
+	z-index:200;
+	}
+	
+	#dir-mouse-linha{
+	position: absolute;
+	width: 10px;
+	height: 411px;
+	overflow: hidden;
+	right:0px;
+	border-left: 1px dashed #930;
+	top: 10px;
+	z-index:200;
+	}
+	
+	#bai-mouse-linha{
+	position: absolute;
+	width: 478px;
+	height: 10px;
+	overflow: hidden;
+	border-top: 1px dashed #930;
+	bottom: 0px;
+	left:10px;
+	z-index:200;
+		}
+
+	/*  MOUSEPAD RETANGULO */
+	#area_azulejo_porcelana{
+	position: relative;
+	width: 500px;
+	height: 500px;
+	overflow: hidden;
+	left: 50px;
+	border: 1px solid #F00;
+	top: 40px;
+	float: left;
+	}
+	
+	#top-azulejo-porcelana-linha{
+	position: absolute;
+	width: 476px;
+	height: 10px;
+	overflow: hidden;
+	top:0px;
+	left: 10px;
+	border-bottom: 1px solid #00AFEF;
+	z-index:200;
+		}
+#esq-azulejo-porcelana-linha{
+	position: absolute;
+	width: 10px;
+	height: 476px;
+	overflow: hidden;
+	border-right: 1px solid #00AFEF;
+	top: 10px;
+	left:0px;
+	z-index:200;
+		}
+#dir-azulejo-porcelana-linha{
+	position: absolute;
+	width: 10px;
+	height: 476px;
+	/*border: 1px solid black;*/
+	overflow: hidden;
+	right:0px;
+	border-left: 1px solid #00AFEF;
+	top: 10px;
+	z-index:200;
+		}
+#bai-azulejo-porcelana-linha{
+	position: absolute;
+	width: 476px;
+	height: 10px;
+	/*border: 1px solid black;*/
+	overflow: hidden;
+	border-top: 1px solid #00AFEF;
+	bottom: 0px;
+	left:10px;
+	z-index:200;
+		}
+		
+		/* CAPA NOTEBOOK */
+
+	#fundo_capa_notebook14{
+	background-image:url(imagens/area_capa_note.png);
+	position: relative;
+	width: 499px;
+	height: 360px;
+	overflow: hidden;
+	left: 50px;
+	top: 30px;
+	float: left;
+		}
+	#area_capa_notebook14{
+	position: relative;
+	width: 350px;
+	height: 237px;
+	overflow: hidden;
+	left: 80px;
+	border: 1px solid #F00;
+	top: 50px;
+	float: left;
+		}
+
+
+	/*  ALMOFADA CORAÇÃO */
+	#fundo_almofada_coracao{
+	background-image:url(imagens/fundo_almofada_coracao.png);
+	position: relative;
+	width: 500px;
+	height: 499px;
+	overflow: hidden;
+	left: 50px;
+	top: 30px;
+	float: left;
+		}
+	#area_almofada_coracao {
+	position: relative;
+	width: 300px;
+	height: 322px;
+	overflow: hidden;
+	left: 90px;
+	border: 1px solid #F00;
+	top: 50px;
+	float: left;
+		}
+		
+/* ALMOFADA QUADRADA */
+
+	#fundo_almofada_quadrada{
+	background-image:url(imagens/almofada.png);
+	position: relative;
+	width: 466px;
+	height: 455px;
+	overflow: hidden;
+	left: 80px;
+	top: 30px;
+	float: left;
+		}
+	#area_almofada_quadrada {
+	position: relative;
+	width: 244px;
+	height: 360px;
+	overflow: hidden;
+	left: 110px;
+	border: 1px solid #F00;
+	top: 50px;
+	float: left;
+		}
+
+/* ALMOFADA BABY */
+
+	#fundo_almofada_baby{
+	background-image:url(imagens/almofada-slim.png);
+	position: relative;
+	width: 500px;
+	height: 391px;
+	overflow: hidden;
+	left: 50px;
+	top: 30px;
+	float: left;
+		}
+	#area_almofada_baby {
+	position: relative;
+	width: 380px;
+	height: 280px;
+	overflow: hidden;
+	left: 70px;
+	border: 1px solid #F00;
+	top: 70px;
+	float: left;
+		}
+		
+/* BOLSA ECOBAG  */
+
+	#fundo_ecobag{
+	background-image:url(imagens/ecobag.png);
+	background-repeat:no-repeat;
+	position: relative;
+	width: 399px;
+	height: 503px;
+	overflow: hidden;
+	left: 50px;
+	top: 30px;
+	float: left;
+		}
+	#area_ecobag {
+	position: relative;
+	width: 198px;
+	height: 260px;
+	overflow: hidden;
+	left: 105px;
+	border: 1px solid #F00;
+	top: 160px;
+	float: left;
+		}
+/* QUEBRA CABEÇA QUADRADO  */
+
+	#area_qc_quadrado {
+	position: relative;
+	width: 532px;
+	height: 376px;
+	overflow: hidden;
+	left: 10px;
+	border: 1px solid #F00;
+	top: 40px;
+	float: left;
+		}
+#top-qc-quad-linha{
+	position: absolute;
+	width: 495px;
+	height: 18px;
+	overflow: hidden;
+	top:0px;
+	left: 18px;
+	border-bottom: 1px solid #0FF;
+	z-index:200;
+		}
+#esq-qc-quad-linha{
+	position: absolute;
+	width: 18px;
+	height: 339px;
+	overflow: hidden;
+	border-right: 1px solid #0FF;
+	top: 18px;
+	left:0px;
+	z-index:200;
+		}
+#dir-qc-quad-linha{
+	position: absolute;
+	width: 18px;
+	height: 339px;
+	overflow: hidden;
+	right:0px;
+	border-left: 1px solid #0FF;
+	top: 18px;
+	z-index:200;
+		}
+#bai-qc-quad-linha{
+	position: absolute;
+	width: 495px;
+	height: 18px;
+	overflow: hidden;
+	border-top: 1px solid #0FF;
+	bottom: 0px;
+	left:18px;
+	z-index:200;
+		}		
+
+		/* CANECA MAGICA PRETA*/
+
+	#fundo_caneca_magica{
+	background-image:url(imagens/fundo_caneca_magica.png);
+	position: relative;
+	width: 508px;
+	height: 269px;
+	overflow: hidden;
+	left: 50px;
+	top: 50px;
+	float: left;
+		}
+	#area_caneca_magica {
+	position: absolute;
+	width: 363px;
+	height: 156px;
+	overflow: hidden;
+	left: 43px;
+	border: 1px solid #ccc;
+	top: 69px;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:20px;	
+		}	
+
+		/* CANECA AZUL */
+
+	#fundo_caneca_azul {
+	background-image:url(imagens/fundo_caneca_azul.png);
+	position: relative;
+	width: 532px;
+	height: 231px;
+	overflow: hidden;
+	left: 50px;
+	top: 30px;
+	float: left;
+		}
+	#area_caneca_azul {
+	position: absolute;
+	width: 360px;
+	height: 156px;
+	overflow: hidden;
+	left: 69px;
+	border: 1px solid #ccc;
+	top: 48px;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:20px;	
+		}	
+
+		/* CANECA ROSA */
+
+	#fundo_caneca_rosa {
+	background-image:url(imagens/fundo_caneca_rosa.png);
+	position: relative;
+	width: 532px;
+	height: 230px;
+	overflow: hidden;
+	left: 50px;
+	top: 50px;
+	float: left;
+		}
+	#area_caneca_rosa {
+	position: absolute;
+	width: 360px;
+	height: 156px;
+	overflow: hidden;
+	left: 69px;
+	border: 1px solid #F00;
+	top: 52px;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:20px;	
+		}	
+
+		/* CANECA GRANDE */
+
+	#fundo_caneca_branca {
+	background-image:url(imagens/fundo_caneca_branca.png);
+	position: relative;
+	width: 530px;
+	height: 228px;
+	overflow: hidden;
+	left: 50px;
+	top: 50px;
+	float: left;
+		}
+	#area_caneca_branca {
+	position: absolute;
+	width: 370px;
+	height: 161px;
+	overflow: hidden;
+	left: 36px;
+	border: 1px solid #CCC;
+	top: 53px;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:20px;	
+		}		
+
+/* fundo do aplicativo */
+#content_orc{
+	width:1024px;
+	height:250px;
+	background-color:#F9F9F9;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	-moz-box-shadow:0px 0px 8px #ccc;
+	-webkit-box-shadow:0px 0px 8px #ccc;
+	box-shadow:0px 0px 8px #ccc;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#content{
+	width:1024px;
+	height:680px;
+	background-color:#F9F9F9;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	-moz-box-shadow:0px 0px 8px #ccc;
+	-webkit-box-shadow:0px 0px 8px #ccc;
+	box-shadow:0px 0px 8px #ccc;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+/* lado direito do aplicativo */
+#area_personaliza {
+	background-color:#F9F9F9;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border: 1px #E8E8E8 solid;
+	float: right;
+	height: auto;
+	overflow:hidden;
+	width: 400px;
+	margin-top:30px;
+	padding-bottom:10px;
+}
+.titulo_personalize{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:19px;
+	font-weight:500;
+	background: #ffffff; /* Old browsers */
+	background: -moz-linear-gradient(top,  #ffffff 0%, #f3f3f3 50%, #ededed 51%, #ffffff 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(50%,#f3f3f3), color-stop(51%,#ededed), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+	color:#666;
+	height:30px;
+	padding:10px;
+	border: thin solid #CCC;
+	-webkit-border-top-left-radius: 6px;
+-webkit-border-top-right-radius: 6px;
+-moz-border-radius-topleft: 6px;
+-moz-border-radius-topright: 6px;
+border-top-left-radius: 6px;
+border-top-right-radius: 6px;
+}
+.miniaturas{
+    height:60px;
+    margin:5px;
+    float:left;
+	
+		margin:2px 5px 2px 2px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	-moz-box-shadow:0px 0px 2px #999;
+	-webkit-box-shadow:0px 0px 2px #999;
+	box-shadow:0px 0px 2px #999;
+}
+.removeMini{
+	width:16px;
+	height:16px;
+	position:relative;
+	top:0px;
+	right:0px;
+	background:transparent url(imagens/cancel.png) no-repeat top left;
+	opacity:0.5;
+	cursor:pointer;
+	z-index: 99;
+}
+
+.img_arrastavel{
+	position:absolute;
+	cursor:move;
+}
+
+/* ----- QUEBRA CABEÇA CORAÇÃO ------------------- */
+	#area_qc_coracao {
+	position: relative;
+	width: 541px;
+	height: 467px;
+	/*border: 1px solid black;*/
+	overflow: hidden;
+	left: 10px;
+	border: 1px solid #CCC;
+	top: 40px;
+	float: left;
+		}		
+#top-qc-cor-linha {
+	z-index:100;
+	position:absolute;
+	width:388px;
+	left:79px;
+	height:92px;
+	margin-left:auto;
+	margin-right:auto;
+	border-bottom:2px dashed #999;
+}
+#esq-qc-cor-linha {
+	z-index:100;
+	position:absolute;
+	width:79px;
+	height:175px;
+	top:95px;
+	border-right:2px dashed #999;
+}
+#dir-qc-cor-linha {
+	z-index:101;
+	position:absolute;
+	width:74px;
+	right:0px;
+	height:175px;
+	top:95px;
+	border-left:2px dashed #999;
+}
+#bai-qc-cor-linha {
+	z-index:150;
+	position:absolute;
+	width:386px;
+	left:79px;
+	height:192px;
+	bottom: 0px;
+	border-top:2px dashed #999;
+}
+#top-qc-cor {
+	background-image: url(imagens/cor-top.png);
+	z-index:100;
+	position:absolute;
+	width:538px;
+	height:93px;
+	background-repeat: no-repeat;
+	background-position:5px 0;
+}
+#esq-qc-cor {
+	background-image: url(imagens/cor-esq.png);
+	z-index:100;
+	position:absolute;
+	width:79px;
+	height:467px;
+	background-repeat: no-repeat;
+	background-position:  2px 90px;
+}
+#dir-qc-cor {
+	background-image: url(imagens/cor-dir.png);
+	z-index:100;
+	position:absolute;
+	width:74px;
+	right:0px;
+	height:467px;
+	background-repeat: no-repeat;
+	background-position:  -2px 90px;
+}
+#bai-qc-cor {
+	background-image: url(imagens/cor-bai.png);
+	z-index:100;
+	position:absolute;
+	width:541px;
+	height:192px;
+	background-repeat: no-repeat;
+	bottom: 0px;
+	background-position:  74px 0px;
+}
+
+/*  LIGHT BOX */
+.fechar_visualizar{
+	position:relative;
+	margin: -30px 0 0 100%;
+	z-index:9999;
+}
+#mascara{ 
+	position:absolute;
+	top:0;
+	left:0;
+	display:none; 
+	z-index:9998;
+	background-color:#000;
+}
+#img_pagination2{
+	width:auto;
+	height:auto; 
+	position:absolute;
+	display:none; 
+	z-index:9999;
+}
+#center_pag{
+	 position:absolute;
+	 margin:0 auto 0 auto;
+	 width:900px;
+	 height:auto; 
+	 top:50px; 
+	 	border-radius:10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	padding:20px;
+	background-color:#EAEAEA;
+	 }
+
+/* PREVISUALIZAR*/
+#centraliza_visu{
+	position:absolute;
+	width:100%;
+	left:50%;
+	margin-left:-450px;
+	background-color:#00BFAA;
+}
+
+#boxes .window {
+	position:absolute;
+	background-color:#EAEAEA;
+	height:auto;
+	width:900px;
+	display:none;
+	z-index:9999;
+	padding:20px;
+	top:50px;
+	border-radius:10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+}
+#mask {
+  position:absolute;
+  left:0;
+  top:0;
+  z-index:9000;
+  background-color:#000;
+  display:none;
+}
+
+/*
+	Pagination
+*/
+		.img_produtos{
+	width:500px;
+	height:100px;
+	margin-top: 40px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 40px;
+	}
+#products2 .pagination2 {
+	background:#dfdfdf;
+	width:500px;
+	padding:5px 5px;
+	float:left;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+}
+
+#products2 .pagination2 li {
+	float:left;
+	margin:2px 4px;
+	list-style:none;
+}
+
+#products2 .pagination2 li a {
+	display:block;
+	width:55px;
+	height:55px;
+	margin:1px;
+	float:left;
+	background:#f9f9f9;
+}
+
+#products2 .pagination2 li.current a {
+	border:1px solid #7f7f7f;
+	margin:0;
+}
+#products2 .slides_container2 {
+	width:550px;
+	height:550px;
+	overflow:hidden;
+	float:left;
+	position:relative;
+	border:1px solid #dfdfdf;
+	display:none;
+}
+.slides_container2 a {
+	width:366px;
+	height:400px;
+	display:block;
+	cursor:default;
+}
+#products2 .next,#products2 .prev {
+	position:absolute;
+	top:127px;
+	left:0;
+	width:21px;
+	height:0;
+	padding-top:21px;
+	overflow:hidden;
+	/*display:block;*/
+	display:none;
+	z-index:101;
+}
+#products2 .prev {
+	
+	background:url(../app/img/arrow-prev2.png);
+}
+
+#products2 .next {
+	left:585px;
+	background:url(../app/img/arrow-next2.png);
+}
+
+#formUpload{
+	display: none;
+}
+
+.inputFile {
+   /* width: 185px;
+    height:40px;*/
+    position: relative;
+    overflow: hidden;
+	-moz-box-shadow:inset 0px 1px 0px 0px #cae3fc;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #cae3fc;
+	box-shadow:inset 0px 1px 0px 0px #cae3fc;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #4197ee) );
+	background:-moz-linear-gradient( center top, #79bbff 5%, #4197ee 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#4197ee');
+	background-color:#79bbff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #469df5;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 5px;
+	text-decoration:none;
+	cursor:pointer;
+	text-shadow:1px 1px 0px #287ace;
+	width:200px;
+	height:20px;
+	float:left;
+	margin:20px 10px 10px 10px ;
+}
+.inputFile span {
+    display: block;
+    position: absolute;
+}
+#btnEnviar{
+	-moz-box-shadow:inset 0px 1px 0px 0px #cae3fc;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #cae3fc;
+	box-shadow:inset 0px 1px 0px 0px #cae3fc;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #558BE6), color-stop(1, #286BD0) );
+	background:-moz-linear-gradient( center top, #79bbff 5%, #4197ee 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#4197ee');
+	background-color:#79bbff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #469df5;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 5px;
+	text-decoration:none;
+	cursor:pointer;
+	text-shadow:1px 1px 0px #287ace;
+	width:120px;
+	height:35px;
+	margin:19px 0 0 10px;	
+
+}
+.inputFile input {
+    position: absolute;
+    right: 0;
+    z-index: 2;
+    opacity: 0;
+    filter: alpha(opacity=0);
+	cursor:pointer;
+}
+.progress_bar{
+	margin:0 0 0 10px;
+	width:190px;
+	height:25px;	
+}
+.icon_aguarde2{
+	width:30px;
+	height:30px;
+	margin:40px 0 0 50px;
+}
+.icon_aguarde{
+	display:none;
+	width:30px;
+	height:30px;
+	margin:10px 0 0 70px;
+}
+.close{
+	width:16px;
+	height:16px;
+	top:-40px;
+	left:10px;
+	position:relative;
+	cursor:pointer;	
+	}

@@ -1,0 +1,100 @@
+/*=================================*/
+/* Nivo Slider Demo
+/* November 2010
+/* By: Gilbert Pellegrom
+/* http://dev7studios.com
+/*=================================*/
+
+/*====================*/
+/*=== Reset Styles ===*/
+/*====================*/
+/*===================*/
+/*=== Main Styles ===*/
+/*===================*/
+
+.slider-wrapper {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.theme-default #slider {
+	margin:0 auto 0 auto;
+}
+.theme-pascal.slider-wrapper,
+.theme-orman.slider-wrapper {
+    margin-top:150px;
+}
+
+/*====================*/
+/*=== Other Styles ===*/
+/*====================*/
+.clear {
+	clear:both;
+}
+
+
+
+
+/* --------------- CARROCEL -----------------------*/
+
+/* Circular Content Carousel Style */
+.ca-container{
+	position:relative;
+	margin:25px auto 20px auto;
+	width:940px;
+	height:350px;
+}
+.ca-wrapper{
+	width:100%;
+	height:100%;
+	position:relative;
+}
+.ca-item{
+	position:relative;
+	float:left;
+	width:300px;
+	height:90%;
+	text-align:center;
+}
+.ca-item-main{
+	padding:20px;
+	position:absolute;
+	top:5px;
+	left:5px;
+	right:5px;
+	bottom:5px;
+	background:#fff;
+	overflow:hidden;
+	-moz-box-shadow:1px 1px 2px rgba(0,0,0,0.2);
+	-webkit-box-shadow:1px 1px 2px rgba(0,0,0,0.2);
+	box-shadow:1px 1px 2px rgba(0,0,0,0.2);
+}
+.ca-icon{
+	width:233px;
+	height:160px;
+	position:relative;
+	margin:0 auto;
+
+}
+.ca-nav span{
+	width:25px;
+	height:38px;
+	background:transparent url(../imagens/arrows.png) no-repeat top left;
+	position:absolute;
+	top:50%;
+	margin-top:-19px;
+	/* [disabled]left:-40px; */
+	text-indent:-9000px;
+	opacity:0.7;
+	cursor:pointer;
+	z-index:100;
+}
+.ca-nav span.ca-nav-next{
+	background-position:top right;
+	left:auto;
+	right:0px;
+}
+.ca-nav span:hover{
+	opacity:1.0;
+}

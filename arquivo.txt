@@ -1,0 +1,1143 @@
+﻿SimpleXMLElement::__set_state(array(
+   'date' => '2014-01-31T17:14:34.000-02:00',
+   'code' => 'E53B9373-9E55-44A5-8B65-33135B796854',
+   'reference' => 'I9635',
+   'type' => '1',
+   'status' => '7',
+   'cancellationSource' => 'INTERNAL',
+   'lastEventDate' => '2014-02-16T07:55:49.000-03:00',
+   'paymentMethod' => 
+  SimpleXMLElement::__set_state(array(
+     'type' => '2',
+     'code' => '202',
+  )),
+   'paymentLink' => 'https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?t=55ff6ffedca3f19e1efb7b6f6f670a49',
+   'grossAmount' => '163.30',
+   'discountAmount' => '0.00',
+   'feeAmount' => '8.55',
+   'netAmount' => '154.75',
+   'extraAmount' => '0.00',
+   'installmentCount' => '1',
+   'itemCount' => '1',
+   'items' => 
+  SimpleXMLElement::__set_state(array(
+     'item' => 
+    SimpleXMLElement::__set_state(array(
+       'id' => '27',
+       'description' => 'Almofada branca coração',
+       'quantity' => '2',
+       'amount' => '35.00',
+    )),
+  )),
+   'sender' => 
+  SimpleXMLElement::__set_state(array(
+     'name' => 'Joojojojojo jojojo',
+     'email' => 'jo@jo.com',
+     'phone' => 
+    SimpleXMLElement::__set_state(array(
+       'areaCode' => '99',
+       'number' => '99999999',
+    )),
+  )),
+   'shipping' => 
+  SimpleXMLElement::__set_state(array(
+     'address' => 
+    SimpleXMLElement::__set_state(array(
+       'street' => 'Rua Agenor de Barros',
+       'number' => '43212',
+       'complement' => 'ss',
+       'district' => 'Thomé',
+       'city' => 'Cataguases',
+       'state' => 'MG',
+       'country' => 'BRA',
+       'postalCode' => '36774164',
+    )),
+     'type' => '1',
+     'cost' => '93.30',
+  )),
+))SimpleXMLElement::__set_state(array(
+   'date' => '2014-05-20T23:53:48.000-03:00',
+   'code' => '1CDCFBFE-16D3-4816-85FC-25235E24B5EA',
+   'reference' => 'I9635',
+   'type' => '1',
+   'status' => '1',
+   'lastEventDate' => '2014-05-20T23:54:18.000-03:00',
+   'paymentMethod' => 
+  SimpleXMLElement::__set_state(array(
+     'type' => '2',
+     'code' => '202',
+  )),
+   'paymentLink' => 'https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=5bbeca95160d7e828fec000c1ae8d06a1ee34973b0bc8368f80e96d7c10b2638e64755f54fc82bed',
+   'grossAmount' => '27.00',
+   'discountAmount' => '0.00',
+   'feeAmount' => '1.75',
+   'netAmount' => '25.25',
+   'extraAmount' => '0.00',
+   'installmentCount' => '1',
+   'itemCount' => '1',
+   'items' => 
+  SimpleXMLElement::__set_state(array(
+     'item' => 
+    SimpleXMLElement::__set_state(array(
+       'id' => '56',
+       'description' => 'Caneca mágica preta',
+       'quantity' => '1',
+       'amount' => '27.00',
+    )),
+  )),
+   'sender' => 
+  SimpleXMLElement::__set_state(array(
+     'name' => 'Aline Melo Braga',
+     'email' => 'melob.aline@gmail.com',
+     'phone' => 
+    SimpleXMLElement::__set_state(array(
+       'areaCode' => '86',
+       'number' => '99017955',
+    )),
+  )),
+   'shipping' => 
+  SimpleXMLElement::__set_state(array(
+     'address' => 
+    SimpleXMLElement::__set_state(array(
+       'street' => 'Rua Coelho de Resende',
+       'number' => '590',
+       'complement' => 'sul',
+       'district' => 'Centro',
+       'city' => 'Teresina',
+       'state' => 'PI',
+       'country' => 'BRA',
+       'postalCode' => '64001370',
+    )),
+     'type' => '3',
+     'cost' => '0.00',
+  )),
+))SimpleXMLElement::__set_state(array(
+   'date' => '2014-05-29T12:19:32.000-03:00',
+   'code' => 'CF90CC15-5B6F-4E91-B602-12BC5D71592D',
+   'reference' => 'I9635',
+   'type' => '1',
+   'status' => '1',
+   'lastEventDate' => '2014-05-29T12:20:21.000-03:00',
+   'paymentMethod' => 
+  SimpleXMLElement::__set_state(array(
+     'type' => '2',
+     'code' => '202',
+  )),
+   'paymentLink' => 'https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=f5119998b6fa53fc9ba80b7bcee841639437fcb55c31a5580b1d877e17b8ece7c661053dc065bc12',
+   'grossAmount' => '110.30',
+   'discountAmount' => '0.00',
+   'feeAmount' => '5.90',
+   'netAmount' => '104.40',
+   'extraAmount' => '0.00',
+   'installmentCount' => '1',
+   'itemCount' => '1',
+   'items' => 
+  SimpleXMLElement::__set_state(array(
+     'item' => 
+    SimpleXMLElement::__set_state(array(
+       'id' => '65',
+       'description' => 'Caneca mágica preta',
+       'quantity' => '3',
+       'amount' => '27.00',
+    )),
+  )),
+   'sender' => 
+  SimpleXMLElement::__set_state(array(
+     'name' => 'ELVIS PEIXOTO PEREIRA',
+     'email' => 'senhor.elvis@hotmail.com',
+     'phone' => 
+    SimpleXMLElement::__set_state(array(
+       'areaCode' => '11',
+       'number' => '58918667',
+    )),
+  )),
+   'shipping' => 
+  SimpleXMLElement::__set_state(array(
+     'address' => 
+    SimpleXMLElement::__set_state(array(
+       'street' => 'Rua Itaparoquera',
+       'number' => '30',
+       'complement' => 'PROX. A ESCOLA EMEI',
+       'district' => 'Parque Santo Amaro',
+       'city' => 'São Paulo',
+       'state' => 'SP',
+       'country' => 'BRA',
+       'postalCode' => '04932060',
+    )),
+     'type' => '1',
+     'cost' => '29.30',
+  )),
+))SimpleXMLElement::__set_state(array(
+   'date' => '2014-05-29T12:19:32.000-03:00',
+   'code' => 'CF90CC15-5B6F-4E91-B602-12BC5D71592D',
+   'reference' => 'I9635',
+   'type' => '1',
+   'status' => '3',
+   'lastEventDate' => '2014-05-30T02:40:22.000-03:00',
+   'paymentMethod' => 
+  SimpleXMLElement::__set_state(array(
+     'type' => '2',
+     'code' => '202',
+  )),
+   'paymentLink' => 'https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=f5119998b6fa53fc9ba80b7bcee841639437fcb55c31a5580b1d877e17b8ece7c661053dc065bc12',
+   'grossAmount' => '110.30',
+   'discountAmount' => '0.00',
+   'feeAmount' => '5.90',
+   'netAmount' => '104.40',
+   'extraAmount' => '0.00',
+   'escrowEndDate' => '2014-06-13T02:40:22.000-03:00',
+   'installmentCount' => '1',
+   'itemCount' => '1',
+   'items' => 
+  SimpleXMLElement::__set_state(array(
+     'item' => 
+    SimpleXMLElement::__set_state(array(
+       'id' => '65',
+       'description' => 'Caneca mágica preta',
+       'quantity' => '3',
+       'amount' => '27.00',
+    )),
+  )),
+   'sender' => 
+  SimpleXMLElement::__set_state(array(
+     'name' => 'ELVIS PEIXOTO PEREIRA',
+     'email' => 'senhor.elvis@hotmail.com',
+     'phone' => 
+    SimpleXMLElement::__set_state(array(
+       'areaCode' => '11',
+       'number' => '58918667',
+    )),
+  )),
+   'shipping' => 
+  SimpleXMLElement::__set_state(array(
+     'address' => 
+    SimpleXMLElement::__set_state(array(
+       'street' => 'Rua Itaparoquera',
+       'number' => '30',
+       'complement' => 'PROX. A ESCOLA EMEI',
+       'district' => 'Parque Santo Amaro',
+       'city' => 'São Paulo',
+       'state' => 'SP',
+       'country' => 'BRA',
+       'postalCode' => '04932060',
+    )),
+     'type' => '1',
+     'cost' => '29.30',
+  )),
+))SimpleXMLElement::__set_state(array(
+   'date' => '2014-05-20T23:53:48.000-03:00',
+   'code' => '1CDCFBFE-16D3-4816-85FC-25235E24B5EA',
+   'reference' => 'I9635',
+   'type' => '1',
+   'status' => '7',
+   'cancellationSource' => 'INTERNAL',
+   'lastEventDate' => '2014-06-03T08:19:49.000-03:00',
+   'paymentMethod' => 
+  SimpleXMLElement::__set_state(array(
+     'type' => '2',
+     'code' => '202',
+  )),
+   'paymentLink' => 'https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=5bbeca95160d7e828fec000c1ae8d06a1ee34973b0bc8368f80e96d7c10b2638e64755f54fc82bed',
+   'grossAmount' => '27.00',
+   'discountAmount' => '0.00',
+   'feeAmount' => '1.75',
+   'netAmount' => '25.25',
+   'extraAmount' => '0.00',
+   'installmentCount' => '1',
+   'itemCount' => '1',
+   'items' => 
+  SimpleXMLElement::__set_state(array(
+     'item' => 
+    SimpleXMLElement::__set_state(array(
+       'id' => '56',
+       'description' => 'Caneca mágica preta',
+       'quantity' => '1',
+       'amount' => '27.00',
+    )),
+  )),
+   'sender' => 
+  SimpleXMLElement::__set_state(array(
+     'name' => 'Aline Melo Braga',
+     'email' => 'melob.aline@gmail.com',
+     'phone' => 
+    SimpleXMLElement::__set_state(array(
+       'areaCode' => '86',
+       'number' => '99017955',
+    )),
+  )),
+   'shipping' => 
+  SimpleXMLElement::__set_state(array(
+     'address' => 
+    SimpleXMLElement::__set_state(array(
+       'street' => 'Rua Coelho de Resende',
+       'number' => '590',
+       'complement' => 'sul',
+       'district' => 'Centro',
+       'city' => 'Teresina',
+       'state' => 'PI',
+       'country' => 'BRA',
+       'postalCode' => '64001370',
+    )),
+     'type' => '3',
+     'cost' => '0.00',
+  )),
+))SimpleXMLElement::__set_state(array(
+   'date' => '2014-05-29T12:19:32.000-03:00',
+   'code' => 'CF90CC15-5B6F-4E91-B602-12BC5D71592D',
+   'reference' => 'I9635',
+   'type' => '1',
+   'status' => '4',
+   'lastEventDate' => '2014-06-13T03:18:03.000-03:00',
+   'paymentMethod' => 
+  SimpleXMLElement::__set_state(array(
+     'type' => '2',
+     'code' => '202',
+  )),
+   'paymentLink' => 'https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=f5119998b6fa53fc9ba80b7bcee841639437fcb55c31a5580b1d877e17b8ece7c661053dc065bc12',
+   'grossAmount' => '110.30',
+   'discountAmount' => '0.00',
+   'feeAmount' => '5.90',
+   'netAmount' => '104.40',
+   'extraAmount' => '0.00',
+   'escrowEndDate' => '2014-06-13T02:40:22.000-03:00',
+   'installmentCount' => '1',
+   'itemCount' => '1',
+   'items' => 
+  SimpleXMLElement::__set_state(array(
+     'item' => 
+    SimpleXMLElement::__set_state(array(
+       'id' => '65',
+       'description' => 'Caneca mágica preta',
+       'quantity' => '3',
+       'amount' => '27.00',
+    )),
+  )),
+   'sender' => 
+  SimpleXMLElement::__set_state(array(
+     'name' => 'ELVIS PEIXOTO PEREIRA',
+     'email' => 'senhor.elvis@hotmail.com',
+     'phone' => 
+    SimpleXMLElement::__set_state(array(
+       'areaCode' => '11',
+       'number' => '58918667',
+    )),
+  )),
+   'shipping' => 
+  SimpleXMLElement::__set_state(array(
+     'address' => 
+    SimpleXMLElement::__set_state(array(
+       'street' => 'Rua Itaparoquera',
+       'number' => '30',
+       'complement' => 'PROX. A ESCOLA EMEI',
+       'district' => 'Parque Santo Amaro',
+       'city' => 'São Paulo',
+       'state' => 'SP',
+       'country' => 'BRA',
+       'postalCode' => '04932060',
+    )),
+     'type' => '1',
+     'cost' => '29.30',
+  )),
+))SimpleXMLElement::__set_state(array(
+   'date' => '2014-07-01T11:09:04.000-03:00',
+   'code' => 'F138BD20-1F94-4579-89EF-33AB68A8CA8F',
+   'reference' => 'I9635',
+   'type' => '1',
+   'status' => '1',
+   'lastEventDate' => '2014-07-01T11:09:25.000-03:00',
+   'paymentMethod' => 
+  SimpleXMLElement::__set_state(array(
+     'type' => '2',
+     'code' => '202',
+  )),
+   'paymentLink' => 'https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=f97bcb88e4a76fcee3511645d0a5b7ae01ab1d938dd06a63fa27e20a0b9cb6517983733d9f2d45e3',
+   'grossAmount' => '16.00',
+   'discountAmount' => '0.00',
+   'feeAmount' => '1.20',
+   'netAmount' => '14.80',
+   'extraAmount' => '0.00',
+   'installmentCount' => '1',
+   'itemCount' => '1',
+   'items' => 
+  SimpleXMLElement::__set_state(array(
+     'item' => 
+    SimpleXMLElement::__set_state(array(
+       'id' => '72',
+       'description' => 'Caneca branca',
+       'quantity' => '1',
+       'amount' => '16.00',
+    )),
+  )),
+   'sender' => 
+  SimpleXMLElement::__set_state(array(
+     'name' => 'jonatas oééé lima',
+     'email' => 'jon@jon.com',
+     'phone' => 
+    SimpleXMLElement::__set_state(array(
+       'areaCode' => '11',
+       'number' => '11111111',
+    )),
+  )),
+   'shipping' => 
+  SimpleXMLElement::__set_state(array(
+     'address' => 
+    SimpleXMLElement::__set_state(array(
+       'street' => 'Rua Doutor Area Leão',
+       'number' => '3456',
+       'complement' => '123 norte',
+       'district' => 'Centro',
+       'city' => 'Teresina',
+       'state' => 'PI',
+       'country' => 'BRA',
+       'postalCode' => '64000310',
+    )),
+     'type' => '3',
+     'cost' => '0.00',
+  )),
+))SimpleXMLElement::__set_state(array(
+   'date' => '2014-07-01T11:09:04.000-03:00',
+   'code' => 'F138BD20-1F94-4579-89EF-33AB68A8CA8F',
+   'reference' => 'I9635',
+   'type' => '1',
+   'status' => '7',
+   'cancellationSource' => 'INTERNAL',
+   'lastEventDate' => '2014-07-15T07:43:51.000-03:00',
+   'paymentMethod' => 
+  SimpleXMLElement::__set_state(array(
+     'type' => '2',
+     'code' => '202',
+  )),
+   'paymentLink' => 'https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=f97bcb88e4a76fcee3511645d0a5b7ae01ab1d938dd06a63fa27e20a0b9cb6517983733d9f2d45e3',
+   'grossAmount' => '16.00',
+   'discountAmount' => '0.00',
+   'feeAmount' => '1.20',
+   'netAmount' => '14.80',
+   'extraAmount' => '0.00',
+   'installmentCount' => '1',
+   'itemCount' => '1',
+   'items' => 
+  SimpleXMLElement::__set_state(array(
+     'item' => 
+    SimpleXMLElement::__set_state(array(
+       'id' => '72',
+       'description' => 'Caneca branca',
+       'quantity' => '1',
+       'amount' => '16.00',
+    )),
+  )),
+   'sender' => 
+  SimpleXMLElement::__set_state(array(
+     'name' => 'jonatas oééé lima',
+     'email' => 'jon@jon.com',
+     'phone' => 
+    SimpleXMLElement::__set_state(array(
+       'areaCode' => '11',
+       'number' => '11111111',
+    )),
+  )),
+   'shipping' => 
+  SimpleXMLElement::__set_state(array(
+     'address' => 
+    SimpleXMLElement::__set_state(array(
+       'street' => 'Rua Doutor Area Leão',
+       'number' => '3456',
+       'complement' => '123 norte',
+       'district' => 'Centro',
+       'city' => 'Teresina',
+       'state' => 'PI',
+       'country' => 'BRA',
+       'postalCode' => '64000310',
+    )),
+     'type' => '3',
+     'cost' => '0.00',
+  )),
+))SimpleXMLElement::__set_state(array(
+   'date' => '2014-07-28T16:43:41.000-03:00',
+   'code' => 'EBC7B6B2-398B-49E5-8CDD-240FA8030C08',
+   'reference' => 'I9635',
+   'type' => '1',
+   'status' => '3',
+   'lastEventDate' => '2014-07-28T16:50:12.000-03:00',
+   'paymentMethod' => 
+  SimpleXMLElement::__set_state(array(
+     'type' => '1',
+     'code' => '105',
+  )),
+   'grossAmount' => '192.00',
+   'discountAmount' => '0.00',
+   'feeAmount' => '9.98',
+   'netAmount' => '182.02',
+   'extraAmount' => '0.00',
+   'escrowEndDate' => '2014-08-11T16:50:12.000-03:00',
+   'installmentCount' => '5',
+   'itemCount' => '12',
+   'items' => 
+  SimpleXMLElement::__set_state(array(
+     'item' => 
+    array (
+      0 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '111',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      1 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '112',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      2 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '113',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      3 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '114',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      4 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '115',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      5 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '117',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      6 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '118',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      7 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '119',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      8 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '120',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      9 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '121',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      10 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '122',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      11 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '123',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+    ),
+  )),
+   'sender' => 
+  SimpleXMLElement::__set_state(array(
+     'name' => 'PAMELA OLIVEIRA DE AZEVEDO SIQUEIRA',
+     'email' => 'pamela.azevedo@hotmail.com',
+     'phone' => 
+    SimpleXMLElement::__set_state(array(
+       'areaCode' => '86',
+       'number' => '88057360',
+    )),
+  )),
+   'shipping' => 
+  SimpleXMLElement::__set_state(array(
+     'address' => 
+    SimpleXMLElement::__set_state(array(
+       'street' => 'Mercado Publico Dirceu II Bl C Lj 74',
+       'number' => '74',
+       'complement' => 'Em frente a parada final do metrô',
+       'district' => 'Dirceu II',
+       'city' => 'Teresina',
+       'state' => 'PI',
+       'country' => 'BRA',
+       'postalCode' => '64076410',
+    )),
+     'type' => '3',
+     'cost' => '0.00',
+  )),
+))SimpleXMLElement::__set_state(array(
+   'date' => '2014-07-28T16:43:41.000-03:00',
+   'code' => 'EBC7B6B2-398B-49E5-8CDD-240FA8030C08',
+   'reference' => 'I9635',
+   'type' => '1',
+   'status' => '4',
+   'lastEventDate' => '2014-08-11T16:52:12.000-03:00',
+   'paymentMethod' => 
+  SimpleXMLElement::__set_state(array(
+     'type' => '1',
+     'code' => '105',
+  )),
+   'grossAmount' => '192.00',
+   'discountAmount' => '0.00',
+   'feeAmount' => '9.98',
+   'netAmount' => '182.02',
+   'extraAmount' => '0.00',
+   'escrowEndDate' => '2014-08-11T16:50:12.000-03:00',
+   'installmentCount' => '5',
+   'itemCount' => '12',
+   'items' => 
+  SimpleXMLElement::__set_state(array(
+     'item' => 
+    array (
+      0 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '111',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      1 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '112',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      2 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '113',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      3 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '114',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      4 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '115',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      5 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '117',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      6 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '118',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      7 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '119',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      8 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '120',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      9 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '121',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      10 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '122',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+      11 => 
+      SimpleXMLElement::__set_state(array(
+         'id' => '123',
+         'description' => 'Caneca branca',
+         'quantity' => '1',
+         'amount' => '16.00',
+      )),
+    ),
+  )),
+   'sender' => 
+  SimpleXMLElement::__set_state(array(
+     'name' => 'PAMELA OLIVEIRA DE AZEVEDO SIQUEIRA',
+     'email' => 'pamela.azevedo@hotmail.com',
+     'phone' => 
+    SimpleXMLElement::__set_state(array(
+       'areaCode' => '86',
+       'number' => '88057360',
+    )),
+  )),
+   'shipping' => 
+  SimpleXMLElement::__set_state(array(
+     'address' => 
+    SimpleXMLElement::__set_state(array(
+       'street' => 'Mercado Publico Dirceu II Bl C Lj 74',
+       'number' => '74',
+       'complement' => 'Em frente a parada final do metrô',
+       'district' => 'Dirceu II',
+       'city' => 'Teresina',
+       'state' => 'PI',
+       'country' => 'BRA',
+       'postalCode' => '64076410',
+    )),
+     'type' => '3',
+     'cost' => '0.00',
+  )),
+))SimpleXMLElement::__set_state(array(
+   'date' => '2014-12-14T17:10:57.000-02:00',
+   'code' => 'BA900343-33BB-46DA-BCBE-46218AE6B954',
+   'reference' => 'I9635',
+   'type' => '1',
+   'status' => '3',
+   'lastEventDate' => '2014-12-14T17:11:48.000-02:00',
+   'paymentMethod' => 
+  SimpleXMLElement::__set_state(array(
+     'type' => '1',
+     'code' => '102',
+  )),
+   'grossAmount' => '30.00',
+   'discountAmount' => '0.00',
+   'feeAmount' => '1.90',
+   'netAmount' => '28.10',
+   'extraAmount' => '0.00',
+   'escrowEndDate' => '2014-12-28T17:11:48.000-02:00',
+   'installmentCount' => '1',
+   'itemCount' => '1',
+   'items' => 
+  SimpleXMLElement::__set_state(array(
+     'item' => 
+    SimpleXMLElement::__set_state(array(
+       'id' => '178',
+       'description' => 'Caneca mágica preta',
+       'quantity' => '1',
+       'amount' => '30.00',
+    )),
+  )),
+   'sender' => 
+  SimpleXMLElement::__set_state(array(
+     'name' => 'Heittor Câmara Migliacio',
+     'email' => 'heittor_camara@rocketmail.com',
+     'phone' => 
+    SimpleXMLElement::__set_state(array(
+       'areaCode' => '41',
+       'number' => '30710880',
+    )),
+  )),
+   'shipping' => 
+  SimpleXMLElement::__set_state(array(
+     'address' => 
+    SimpleXMLElement::__set_state(array(
+       'street' => 'Rua David Caldas',
+       'number' => '3630',
+       'complement' => 'Pensão',
+       'district' => 'Vermelha',
+       'city' => 'Teresina',
+       'state' => 'PI',
+       'country' => 'BRA',
+       'postalCode' => '64018670',
+    )),
+     'type' => '3',
+     'cost' => '0.00',
+  )),
+))SimpleXMLElement::__set_state(array(
+   'date' => '2014-12-14T17:10:57.000-02:00',
+   'code' => 'BA900343-33BB-46DA-BCBE-46218AE6B954',
+   'reference' => 'I9635',
+   'type' => '1',
+   'status' => '4',
+   'lastEventDate' => '2014-12-28T17:18:50.000-02:00',
+   'paymentMethod' => 
+  SimpleXMLElement::__set_state(array(
+     'type' => '1',
+     'code' => '102',
+  )),
+   'grossAmount' => '30.00',
+   'discountAmount' => '0.00',
+   'feeAmount' => '1.90',
+   'netAmount' => '28.10',
+   'extraAmount' => '0.00',
+   'escrowEndDate' => '2014-12-28T17:11:48.000-02:00',
+   'installmentCount' => '1',
+   'itemCount' => '1',
+   'items' => 
+  SimpleXMLElement::__set_state(array(
+     'item' => 
+    SimpleXMLElement::__set_state(array(
+       'id' => '178',
+       'description' => 'Caneca mágica preta',
+       'quantity' => '1',
+       'amount' => '30.00',
+    )),
+  )),
+   'sender' => 
+  SimpleXMLElement::__set_state(array(
+     'name' => 'Heittor Câmara Migliacio',
+     'email' => 'heittor_camara@rocketmail.com',
+     'phone' => 
+    SimpleXMLElement::__set_state(array(
+       'areaCode' => '41',
+       'number' => '30710880',
+    )),
+  )),
+   'shipping' => 
+  SimpleXMLElement::__set_state(array(
+     'address' => 
+    SimpleXMLElement::__set_state(array(
+       'street' => 'Rua David Caldas',
+       'number' => '3630',
+       'complement' => 'Pensão',
+       'district' => 'Vermelha',
+       'city' => 'Teresina',
+       'state' => 'PI',
+       'country' => 'BRA',
+       'postalCode' => '64018670',
+    )),
+     'type' => '3',
+     'cost' => '0.00',
+  )),
+))SimpleXMLElement::__set_state(array(
+   'date' => '2015-03-12T20:25:07.000-03:00',
+   'code' => '995D50DE-6DA7-4A38-AE08-B43F5AAEEF95',
+   'reference' => 'I9635',
+   'type' => '1',
+   'status' => '3',
+   'lastEventDate' => '2015-03-12T20:26:48.000-03:00',
+   'paymentMethod' => 
+  SimpleXMLElement::__set_state(array(
+     'type' => '1',
+     'code' => '101',
+  )),
+   'grossAmount' => '32.00',
+   'discountAmount' => '0.00',
+   'feeAmount' => '2.00',
+   'netAmount' => '30.00',
+   'extraAmount' => '0.00',
+   'escrowEndDate' => '2015-03-26T20:26:47.000-03:00',
+   'installmentCount' => '1',
+   'paymentReleases' => 
+  SimpleXMLElement::__set_state(array(
+     'paymentRelease' => 
+    SimpleXMLElement::__set_state(array(
+       'installment' => '1',
+       'totalAmount' => '30.00',
+       'releaseAmount' => '30.00',
+       'status' => 'OPENED',
+       'releaseDate' => '2015-03-26T20:26:47-03:00',
+    )),
+  )),
+   'itemCount' => '1',
+   'items' => 
+  SimpleXMLElement::__set_state(array(
+     'item' => 
+    SimpleXMLElement::__set_state(array(
+       'id' => '209',
+       'description' => 'Caneca branca',
+       'quantity' => '2',
+       'amount' => '16.00',
+    )),
+  )),
+   'sender' => 
+  SimpleXMLElement::__set_state(array(
+     'name' => 'MARIA G G A C LEITE',
+     'email' => 'grazielaleite@hotmail.com.br',
+     'phone' => 
+    SimpleXMLElement::__set_state(array(
+       'areaCode' => '86',
+       'number' => '88446783',
+    )),
+  )),
+   'shipping' => 
+  SimpleXMLElement::__set_state(array(
+     'address' => 
+    SimpleXMLElement::__set_state(array(
+       'street' => 'Rua Doutor Agnelo Sampaio',
+       'number' => '417',
+       'complement' => 'Casa',
+       'district' => 'Recanto das Palmeiras',
+       'city' => 'Teresina',
+       'state' => 'PI',
+       'country' => 'BRA',
+       'postalCode' => '64045785',
+    )),
+     'type' => '3',
+     'cost' => '0.00',
+  )),
+))SimpleXMLElement::__set_state(array(
+   'date' => '2015-03-12T20:25:07.000-03:00',
+   'code' => '995D50DE-6DA7-4A38-AE08-B43F5AAEEF95',
+   'reference' => 'I9635',
+   'type' => '1',
+   'status' => '4',
+   'lastEventDate' => '2015-03-26T20:27:17.000-03:00',
+   'paymentMethod' => 
+  SimpleXMLElement::__set_state(array(
+     'type' => '1',
+     'code' => '101',
+  )),
+   'grossAmount' => '32.00',
+   'discountAmount' => '0.00',
+   'feeAmount' => '2.00',
+   'netAmount' => '30.00',
+   'extraAmount' => '0.00',
+   'escrowEndDate' => '2015-03-26T20:26:47.000-03:00',
+   'installmentCount' => '1',
+   'paymentReleases' => 
+  SimpleXMLElement::__set_state(array(
+     'paymentRelease' => 
+    SimpleXMLElement::__set_state(array(
+       'installment' => '1',
+       'totalAmount' => '30.00',
+       'releaseAmount' => '30.00',
+       'status' => 'RELEASED',
+       'releaseDate' => '2015-03-26T20:26:47-03:00',
+    )),
+  )),
+   'itemCount' => '1',
+   'items' => 
+  SimpleXMLElement::__set_state(array(
+     'item' => 
+    SimpleXMLElement::__set_state(array(
+       'id' => '209',
+       'description' => 'Caneca branca',
+       'quantity' => '2',
+       'amount' => '16.00',
+    )),
+  )),
+   'sender' => 
+  SimpleXMLElement::__set_state(array(
+     'name' => 'MARIA G G A C LEITE',
+     'email' => 'grazielaleite@hotmail.com.br',
+     'phone' => 
+    SimpleXMLElement::__set_state(array(
+       'areaCode' => '86',
+       'number' => '88446783',
+    )),
+  )),
+   'shipping' => 
+  SimpleXMLElement::__set_state(array(
+     'address' => 
+    SimpleXMLElement::__set_state(array(
+       'street' => 'Rua Doutor Agnelo Sampaio',
+       'number' => '417',
+       'complement' => 'Casa',
+       'district' => 'Recanto das Palmeiras',
+       'city' => 'Teresina',
+       'state' => 'PI',
+       'country' => 'BRA',
+       'postalCode' => '64045785',
+    )),
+     'type' => '3',
+     'cost' => '0.00',
+  )),
+))SimpleXMLElement::__set_state(array(
+   'date' => '2015-08-12T21:35:07.000-03:00',
+   'code' => 'D5C9FC0A-C875-4B58-9252-18E6852C6E08',
+   'reference' => 'I9635',
+   'type' => '1',
+   'status' => '1',
+   'lastEventDate' => '2015-08-12T21:36:34.000-03:00',
+   'paymentMethod' => 
+  SimpleXMLElement::__set_state(array(
+     'type' => '2',
+     'code' => '202',
+  )),
+   'paymentLink' => 'https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=89e611d321ac06cb5734397a7ed0733e95817486a6c8ef4a02d17e1e32a1ee9e52c3ef8b3ad161ac',
+   'grossAmount' => '20.00',
+   'discountAmount' => '0.00',
+   'feeAmount' => '1.40',
+   'netAmount' => '18.60',
+   'extraAmount' => '0.00',
+   'installmentCount' => '1',
+   'itemCount' => '1',
+   'items' => 
+  SimpleXMLElement::__set_state(array(
+     'item' => 
+    SimpleXMLElement::__set_state(array(
+       'id' => '228',
+       'description' => 'Caneca branca',
+       'quantity' => '1',
+       'amount' => '20.00',
+    )),
+  )),
+   'sender' => 
+  SimpleXMLElement::__set_state(array(
+     'name' => 'Cibelly Thaídes Monteiro da Silva',
+     'email' => 'cblthaides@hotmail.com',
+     'phone' => 
+    SimpleXMLElement::__set_state(array(
+       'areaCode' => '86',
+       'number' => '32185054',
+    )),
+  )),
+   'shipping' => 
+  SimpleXMLElement::__set_state(array(
+     'address' => 
+    SimpleXMLElement::__set_state(array(
+       'street' => 'QUADRA 76',
+       'number' => '19',
+       'complement' => 'próximo ao mercado do Dirceu I',
+       'district' => 'DIRCEU ARCOVERDE I',
+       'city' => 'Teresina',
+       'state' => 'PI',
+       'country' => 'BRA',
+       'postalCode' => '64077240',
+    )),
+     'type' => '3',
+     'cost' => '0.00',
+  )),
+))SimpleXMLElement::__set_state(array(
+   'date' => '2015-08-12T21:35:07.000-03:00',
+   'code' => 'D5C9FC0A-C875-4B58-9252-18E6852C6E08',
+   'reference' => 'I9635',
+   'type' => '1',
+   'status' => '7',
+   'cancellationSource' => 'INTERNAL',
+   'lastEventDate' => '2015-08-27T08:19:47.000-03:00',
+   'paymentMethod' => 
+  SimpleXMLElement::__set_state(array(
+     'type' => '2',
+     'code' => '202',
+  )),
+   'paymentLink' => 'https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=89e611d321ac06cb5734397a7ed0733e95817486a6c8ef4a02d17e1e32a1ee9e52c3ef8b3ad161ac',
+   'grossAmount' => '20.00',
+   'discountAmount' => '0.00',
+   'feeAmount' => '1.40',
+   'netAmount' => '18.60',
+   'extraAmount' => '0.00',
+   'installmentCount' => '1',
+   'itemCount' => '1',
+   'items' => 
+  SimpleXMLElement::__set_state(array(
+     'item' => 
+    SimpleXMLElement::__set_state(array(
+       'id' => '228',
+       'description' => 'Caneca branca',
+       'quantity' => '1',
+       'amount' => '20.00',
+    )),
+  )),
+   'sender' => 
+  SimpleXMLElement::__set_state(array(
+     'name' => 'Cibelly Thaídes Monteiro da Silva',
+     'email' => 'cblthaides@hotmail.com',
+     'phone' => 
+    SimpleXMLElement::__set_state(array(
+       'areaCode' => '86',
+       'number' => '32185054',
+    )),
+  )),
+   'shipping' => 
+  SimpleXMLElement::__set_state(array(
+     'address' => 
+    SimpleXMLElement::__set_state(array(
+       'street' => 'QUADRA 76',
+       'number' => '19',
+       'complement' => 'próximo ao mercado do Dirceu I',
+       'district' => 'DIRCEU ARCOVERDE I',
+       'city' => 'Teresina',
+       'state' => 'PI',
+       'country' => 'BRA',
+       'postalCode' => '64077240',
+    )),
+     'type' => '3',
+     'cost' => '0.00',
+  )),
+))SimpleXMLElement::__set_state(array(
+   'date' => '2015-09-28T20:00:59.000-03:00',
+   'code' => 'BFA925CB-AC1D-418C-9D4B-065AB35FEAED',
+   'reference' => 'I9635',
+   'type' => '1',
+   'status' => '3',
+   'lastEventDate' => '2015-09-28T20:12:34.000-03:00',
+   'paymentMethod' => 
+  SimpleXMLElement::__set_state(array(
+     'type' => '1',
+     'code' => '102',
+  )),
+   'grossAmount' => '20.00',
+   'discountAmount' => '0.00',
+   'feeAmount' => '1.40',
+   'netAmount' => '18.60',
+   'extraAmount' => '0.00',
+   'escrowEndDate' => '2015-10-12T20:12:34.000-03:00',
+   'installmentCount' => '1',
+   'itemCount' => '1',
+   'items' => 
+  SimpleXMLElement::__set_state(array(
+     'item' => 
+    SimpleXMLElement::__set_state(array(
+       'id' => '295',
+       'description' => 'Caneca branca',
+       'quantity' => '1',
+       'amount' => '20.00',
+    )),
+  )),
+   'sender' => 
+  SimpleXMLElement::__set_state(array(
+     'name' => 'MIRYA GRAZIELLE TORRES PORTELA',
+     'email' => 'mgagronoma@yahoo.com.br',
+     'phone' => 
+    SimpleXMLElement::__set_state(array(
+       'areaCode' => '86',
+       'number' => '98060059',
+    )),
+  )),
+   'shipping' => 
+  SimpleXMLElement::__set_state(array(
+     'address' => 
+    SimpleXMLElement::__set_state(array(
+       'street' => 'Rua Paraguai',
+       'number' => '3410',
+       'complement' => 
+      SimpleXMLElement::__set_state(array(
+      )),
+       'district' => 'Três Andares',
+       'city' => 'Teresina',
+       'state' => 'PI',
+       'country' => 'BRA',
+       'postalCode' => '64017670',
+    )),
+     'type' => '3',
+     'cost' => '0.00',
+  )),
+))

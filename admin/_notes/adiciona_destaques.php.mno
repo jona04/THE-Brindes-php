@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_destaques" value="name:car_id;datatype:int,name:car_pro_id;datatype:int,name:car_ip;datatype:string,name:car_qtd;datatype:int" />
+	<infoitem key="UD_produtos" value="name:pro_id;datatype:int,name:pro_cat_id;datatype:int,name:pro_nome;datatype:string,name:pro_detalhe;datatype:string,name:pro_preco;datatype:string,name:pro_imagem;datatype:string,name:pro_estoque;datatype:int,name:pro_exibir;datatype:int" />
+	<infoitem key="UD_mostra_destaques" value="name:des_id;datatype:int,name:des_pro_id;datatype:int,name:pro_id;datatype:int,name:pro_nome;datatype:string,name:pro_imagem;datatype:string" />
+	<infoitem key="UD_mostrmostra_destaques" value="name:des_id;datatype:int,name:des_pro_id;datatype:int,name:pro_id;datatype:int,name:pro_nome;datatype:string" />
+</info>

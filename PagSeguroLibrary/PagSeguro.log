@@ -1,0 +1,102 @@
+{2013/01/24 22:48:56} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - begin 
+{2013/01/24 22:48:57} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - error [HTTP 401] - UNAUTHORIZED  
+{2013/01/24 22:49:49} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - begin 
+{2013/01/24 22:49:50} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - error [HTTP 401] - UNAUTHORIZED  
+{2013/01/24 22:50:23} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - begin 
+{2013/01/24 22:50:24} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - error [HTTP 401] - UNAUTHORIZED  
+{2013/01/24 23:05:51} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - begin 
+{2013/01/24 23:05:52} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - error [HTTP 401] - UNAUTHORIZED  
+{2013/01/24 23:18:18} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - begin 
+{2013/01/24 23:18:20} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - error [HTTP 401] - UNAUTHORIZED  
+{2013/01/24 23:18:46} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - begin 
+{2013/01/24 23:18:47} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - error [HTTP 401] - UNAUTHORIZED  
+{2013/01/24 23:27:23} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - begin 
+{2013/01/24 23:27:25} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - error [HTTP 401] - UNAUTHORIZED  
+{2013/01/24 23:27:27} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - begin 
+{2013/01/24 23:27:28} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - error [HTTP 401] - UNAUTHORIZED  
+{2013/01/24 23:31:34} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - begin 
+{2013/01/24 23:31:35} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - error [HTTP 401] - UNAUTHORIZED  
+{2013/01/24 23:32:22} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - begin 
+{2013/01/24 23:32:23} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - error [HTTP 401] - UNAUTHORIZED  
+{2013/01/24 23:32:34} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - begin 
+{2013/01/24 23:32:35} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - error [HTTP 401] - UNAUTHORIZED  
+{2013/01/25 00:05:49} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - begin 
+{2013/01/25 00:05:50} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF1234,     SenderEmail=comprador@uol.com.br)) - error [HTTP 401] - UNAUTHORIZED  
+{2013/01/29 21:02:32} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=comprador@uol.com.br)) - begin 
+{2013/01/29 21:02:35} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=comprador@uol.com.br)) - end {1}5E8D8762EDEDF004448CAFBB467BC91F 
+{2013/01/29 21:03:22} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=comprador@uol.com.br)) - begin 
+{2013/01/29 21:03:24} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=comprador@uol.com.br)) - end {1}1C4EEF5DF7F71E3224326F9DA0E170DB 
+{2013/01/29 21:03:51} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=comprador@uol.com.br)) - begin 
+{2013/01/29 21:03:53} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=comprador@uol.com.br)) - end {1}8E8FD1E6FDFD2FDEE40A8F944D21938F 
+{2013/01/29 21:04:17} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=comprador@uol.com.br)) - begin 
+{2013/01/29 21:04:18} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=comprador@uol.com.br)) - end {1}EF8E26B8BABACBB2246FEFAD6521FF58 
+{2013/01/29 21:05:09} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=Ricardo Miiiiiii)) - begin 
+{2013/01/29 21:05:10} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=Ricardo Miiiiiii)) - error [HTTP 400] - BAD_REQUEST [11010] - senderEmail invalid value: Ricardo Miiiiiii[11012] - senderName invalid value: ricardo@ricardo.com 
+{2013/01/29 21:05:27} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=Ricardo Miiiiiii)) - begin 
+{2013/01/29 21:05:28} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=Ricardo Miiiiiii)) - error [HTTP 400] - BAD_REQUEST [11010] - senderEmail invalid value: Ricardo Miiiiiii[11012] - senderName invalid value: ricardo@ricardo.com 
+{2013/01/29 21:05:52} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=comprador@uol.com.br)) - begin 
+{2013/01/29 21:05:53} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=comprador@uol.com.br)) - end {1}64E1125BD6D673FDD4A9FF9F3AF48943 
+{2013/01/29 21:38:01} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ricardo@ricardo.com)) - begin 
+{2013/01/29 21:38:02} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ricardo@ricardo.com)) - end {1}D247364ED4D4130EE47F5FAEE85FAB41 
+{2013/01/29 21:47:53} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/29 21:47:54} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - end {1}DB5E7A82DFDFDE2664C3AF8F1BC6A484 
+{2013/01/29 21:54:48} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/29 21:54:49} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - end {1}3049AA83B0B0720994248F839AACF23D 
+{2013/01/29 21:56:46} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/29 21:56:50} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - end {1}0ACFF95FB3B37FC334A91F92E8771170 
+{2013/01/29 21:57:39} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/29 21:57:46} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - end {1}E088196F9C9CFD1AA41D6F84846B964E 
+{2013/01/29 22:00:11} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/29 22:00:12} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - end {1}1EB5C22C202011799465DF8F5728BB55 
+{2013/01/29 22:01:56} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/29 22:01:57} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - end {1}B99E0E030E0EF1DFF4AA3F825C6A393C 
+{2013/01/29 22:03:05} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/29 22:03:07} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - end {1}C828BAED9B9B9E9EE4DAEFB5898D8CDD 
+{2013/01/29 22:06:11} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/29 22:06:13} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - end {1}9E7C87147979901554516F9DBE040887 
+{2013/01/29 23:25:26} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/29 23:25:28} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - error [HTTP 400] - BAD_REQUEST [11112] - shippingCost invalid pattern: 2000. Must fit the patern: \d+.\d{2}   
+{2013/01/29 23:26:37} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/29 23:26:38} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - end {1}4196FBDE1818F5E554B33F875B915DB6 
+{2013/01/29 23:27:24} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/29 23:27:26} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - end {1}FC8976B31616B2733483BFAB848126F6 
+{2013/01/29 23:28:32} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/29 23:28:33} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - end {1}024AF10B84846CFEE4980F97625141C8 
+{2013/01/29 23:29:41} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/29 23:29:44} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - end {1}1634E6CDF5F5E0B664289F982995F0AF 
+{2013/01/29 23:30:40} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/29 23:30:44} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - end {1}FF4368FF9595D3922416CF8EE171512D 
+{2013/01/29 23:32:26} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/29 23:32:27} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - error [HTTP 400] - BAD_REQUEST [11112] - shippingCost invalid pattern: $valor. Must fit the patern: \d+.\d{2}   
+{2013/01/29 23:50:45} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/29 23:50:48} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=REF,     SenderEmail=ze@ze.com)) - end {1}5FF742EB0C0C1A6AA43ABFBFD435EA5D 
+{2013/01/29 23:57:23} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=)) - begin 
+{2013/01/29 23:57:26} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=)) - error [HTTP 400] - BAD_REQUEST [11112] - shippingCost invalid pattern: 200. Must fit the patern: \d+.\d{2}   
+{2013/01/29 23:58:31} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=)) - begin 
+{2013/01/29 23:58:32} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=)) - error [HTTP 400] - BAD_REQUEST [11112] - shippingCost invalid pattern: 200. Must fit the patern: \d+.\d{2}   
+{2013/01/29 23:59:43} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/29 23:59:44} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - error [HTTP 400] - BAD_REQUEST [11112] - shippingCost invalid pattern: 200. Must fit the patern: \d+.\d{2}   
+{2013/01/30 00:00:03} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/30 00:00:04} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - error [HTTP 400] - BAD_REQUEST [11112] - shippingCost invalid pattern: 200. Must fit the patern: \d+.\d{2}  [11014] - senderPhone invalid value: 3221-0215 
+{2013/01/30 00:01:13} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/30 00:01:14} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - error [HTTP 400] - BAD_REQUEST [11112] - shippingCost invalid pattern: 200. Must fit the patern: \d+.\d{2}  [11014] - senderPhone invalid value: 3221-0215 
+{2013/01/30 00:02:35} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/30 00:02:37} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - end {1}30E62E09EBEB92BAA44EFF841FA770BB 
+{2013/01/30 00:03:48} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/30 00:03:49} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - error [HTTP 400] - BAD_REQUEST [11112] - shippingCost invalid pattern: 200. Must fit the patern: \d+.\d{2}   
+{2013/01/30 00:04:02} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/30 00:04:04} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - end {1}84063680D6D65E5EE4C65F9F9E6A84B3 
+{2013/01/30 00:10:38} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/30 00:10:40} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - error [HTTP 400] - BAD_REQUEST [11112] - shippingCost invalid pattern: 38,90. Must fit the patern: \d+.\d{2}   
+{2013/01/30 00:12:53} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/30 00:12:55} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - end {1}9DDF7BA90202ECF33428CFA60A5113F7 
+{2013/01/30 00:36:56} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/30 00:36:58} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - end {1}A5E9489F2626667114147F82519FB988 
+{2013/01/30 00:37:39} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - begin 
+{2013/01/30 00:37:40} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=ze@ze.com)) - end {1}48488448DADAD333342DFFAF22051EF0 
+{2013/02/16 20:00:47} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=jon@jon.com)) - begin 
+{2013/02/16 20:00:50} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=jon@jon.com)) - end {1}5202F37FD2D2D1B004BECFA8243688DD 
+{2013/02/21 22:52:17} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=jon@jon.com)) - begin 
+{2013/02/21 22:52:20} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=jon@jon.com)) - end {1}156AEFDD5858605664AC6FA676FFB2C1 
+{2013/08/22 15:17:54} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=jo@jo.com)) - begin 
+{2013/08/22 15:17:57} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=I9635,     SenderEmail=jo@jo.com)) - end {1}8D7BE4F0FBFBD7D11427BF80FBAFD7BD 
